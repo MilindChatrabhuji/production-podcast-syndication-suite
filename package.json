@@ -1,0 +1,10 @@
+{
+  "name": "@earning-machine/way70-podcast-production-suite",
+  "version": "1.0.0",
+  "description": "Production Interview Podcast Production & Multi-Channel Syndication Suite (Way #70 / Product 72)",
+  "private": true,
+  "workspaces": [
+    "engine/*",
+    "monetization_podcast_kit"
+  ]
+}

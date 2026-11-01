@@ -1,0 +1,13 @@
+{
+  "name": "@earning-machine/podcast-production-engine",
+  "version": "1.0.0",
+  "description": "Way #70: Production Interview Podcast Production & Multi-Channel Syndication Suite",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "ts-node src/demo_runner.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@earning-machine/monetization-podcast-kit",
+  "version": "1.0.0",
+  "description": "Way #70: Monetization Podcast Kit & Retainer Invoicing",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "ts-node src/demo_runner.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
